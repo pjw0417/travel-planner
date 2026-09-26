@@ -1,6 +1,6 @@
 # The City Edit — New York travel planner
 
-A static personal travel planner for GitHub Pages. It includes the December 31, 2026–January 5, 2027 itinerary, hotel and stop distances, Google Maps links, visit checkboxes, editable photos, English/Korean display, and separate saved trips.
+A static personal travel planner for GitHub Pages. It includes the revised December 31, 2026–January 5, 2027 itinerary, hotel and stop distances, Google Maps links, visit checkboxes, editable photos, English/Korean display, and separate saved trips.
 
 ## Publish on GitHub Pages
 
@@ -25,3 +25,7 @@ No build step or server is needed.
 
 - Map links search Google Maps by the place name and its optional street address, so the destination opens as a named place rather than coordinates. Edit a stop to add a street address when a name is ambiguous. Coordinates remain available for distance estimates.
 - Click **Change cover photo** or edit the trip to upload a cover image or paste an image URL. You can also customize the cover headline and description. Each trip has its own cover.
+
+## Itinerary revisions
+
+The revised plan is added as a new active trip when this version first opens. An older saved trip, its custom stops, and its visit checkmarks remain available in the trip selector. The update is applied once; later edits to the revised plan are not overwritten on reload.
