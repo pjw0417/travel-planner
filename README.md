@@ -20,3 +20,8 @@ No build step or server is needed.
 - Distances are approximate straight-line miles from the hotel and previous stop. Add latitude and longitude to new stops for estimates. **Walking route** opens Google Maps for actual directions.
 - All trips are saved in this browser with `localStorage`. **Export backup** includes every trip, and **Import backup** restores them on another device or browser. Existing single-trip browser data is migrated automatically. Browser storage can be cleared, so keep a backup.
 - The itinerary and coordinates are starting estimates. Confirm operating hours, reservations, entry rules, and travel times before the trip.
+
+## Maps and cover photo
+
+- Map links search Google Maps by the place name and its optional street address, so the destination opens as a named place rather than coordinates. Edit a stop to add a street address when a name is ambiguous. Coordinates remain available for distance estimates.
+- Click **Change cover photo** or edit the trip to upload a cover image or paste an image URL. You can also customize the cover headline and description. Each trip has its own cover.
