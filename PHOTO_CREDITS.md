@@ -1,0 +1,43 @@
+# Shared itinerary photo credits
+
+Photos are Wikimedia Commons thumbnails stored locally for reliable display on GitHub Pages. Each stop also links to its source and license. Images are cropped only by the page layout; the files themselves are unmodified Commons thumbnails.
+
+| Stop | Photo and creator | License |
+| --- | --- | --- |
+| Museum of Modern Art (MoMA) | [Museum of Modern Art, New York City - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Museum_of_Modern_Art,_New_York_City_-_panoramio.jpg) — Colin W | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Grand Central Terminal | [Grand Central Terminal Main Concourse 2019-10-03 20-02.jpg](https://commons.wikimedia.org/wiki/File:Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02.jpg) — Axel Tschentscher | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| SUMMIT One Vanderbilt | [SUMMIT One Vanderbilt - Affinity - NYC.jpg](https://commons.wikimedia.org/wiki/File:SUMMIT_One_Vanderbilt_-_Affinity_-_NYC.jpg) — Changku88 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Times Square NYE venue | [Times Square New Year's Eve 2023 Numbers Ball drop (52580001173).jpg](https://commons.wikimedia.org/wiki/File:Times_Square_New_Year%27s_Eve_2023_Numbers_Ball_drop_(52580001173).jpg) — Anthony Quintano from Mount Laurel, United States | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| Hudson Yards & Vessel | [Vessel in Hudson Yards, 2021-10-02.jpg](https://commons.wikimedia.org/wiki/File:Vessel_in_Hudson_Yards,_2021-10-02.jpg) — Jdforrester | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+| Chelsea Market | [Chelsea Market (11600876326).jpg](https://commons.wikimedia.org/wiki/File:Chelsea_Market_(11600876326).jpg) — Mack Male from Edmonton, AB, Canada | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| Little Island | [Little Island at Pier 55, New York City, 20231001 1817 1496.jpg](https://commons.wikimedia.org/wiki/File:Little_Island_at_Pier_55,_New_York_City,_20231001_1817_1496.jpg) — Jakub Hałun | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Whitney Museum of American Art | [Whitney Museum of American Art August 2024.jpg](https://commons.wikimedia.org/wiki/File:Whitney_Museum_of_American_Art_August_2024.jpg) — Kidfly182 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+| Louis Vuitton 57th Street | [Louis Vuitton, Manhattan – umělecká fasáda obchodu během rekonstrukce.jpg](https://commons.wikimedia.org/wiki/File:Louis_Vuitton,_Manhattan_%E2%80%93_um%C4%9Bleck%C3%A1_fas%C3%A1da_obchodu_b%C4%9Bhem_rekonstrukce.jpg) — Ludmila Zellner Rotbauerová | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Tiffany & Co. The Landmark | [Tiffany & Co. flagship store (53872772975).jpg](https://commons.wikimedia.org/wiki/File:Tiffany_%26_Co._flagship_store_(53872772975).jpg) — ajay_suresh | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| The Plaza Hotel | [Plaza Hotel New York January 2016.jpg](https://commons.wikimedia.org/wiki/File:Plaza_Hotel_New_York_January_2016.jpg) — King of Hearts | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Ralph Lauren Men’s Flagship | [Gertrude Rhinelander Waldo House - 2026 (55515226141).jpg](https://commons.wikimedia.org/wiki/File:Gertrude_Rhinelander_Waldo_House_-_2026_(55515226141).jpg) — ajay_suresh | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+| Ralph Lauren Women’s & Home | [Lauren 888 Mad Av 72 St sunny jeh.jpg](https://commons.wikimedia.org/wiki/File:Lauren_888_Mad_Av_72_St_sunny_jeh.jpg) — Jim.henderson | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
+| Guggenheim Museum | [Solomon R. Guggenheim Museum New York City.jpg](https://commons.wikimedia.org/wiki/File:Solomon_R._Guggenheim_Museum_New_York_City.jpg) — Kristoffer Arvidsson (Göteborgs konstmuseum) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| The Metropolitan Museum of Art | [Metropolitan Museum of Art entrance NYC.JPG](https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_entrance_NYC.JPG) — Arad | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| Rockefeller Christmas Tree | [Rockefeller Center christmas tree.jpg](https://commons.wikimedia.org/wiki/File:Rockefeller_Center_christmas_tree.jpg) — Lechhansl | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| The Battery / ferry terminal | [NYC Battery Park view.jpg](https://commons.wikimedia.org/wiki/File:NYC_Battery_Park_view.jpg) — Daniel Schwen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Statue City Cruises ferry | [View of Liberty Island from the ferry, NYC, 20231003 1607 2000.jpg](https://commons.wikimedia.org/wiki/File:View_of_Liberty_Island_from_the_ferry,_NYC,_20231003_1607_2000.jpg) — Jakub Hałun | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+| Statue of Liberty / Liberty Island | [Statue of Liberty frontal 2.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_frontal_2.jpg) — Daniel Schwen | [Public domain](https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_frontal_2.jpg) |
+| Charging Bull | [Charging Bull (28919670730).jpg](https://commons.wikimedia.org/wiki/File:Charging_Bull_(28919670730).jpg) — Andy Rusch from Santa Barbara, USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| Wall Street | [New York Stock Exchange, Wall Street.jpg](https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange,_Wall_Street.jpg) — Photograph by Mike Peel (www.mikepeel.net). | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Printemps New York | [Printemps New York.png](https://commons.wikimedia.org/wiki/File:Printemps_New_York.png) — Heartleafphilodendron | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| 9/11 Memorial | [North reflecting pool of the National September 11 Memorial, New York City.jpg](https://commons.wikimedia.org/wiki/File:North_reflecting_pool_of_the_National_September_11_Memorial,_New_York_City.jpg) — Christian David | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Oculus | [Oculus (41323p).jpg](https://commons.wikimedia.org/wiki/File:Oculus_(41323p).jpg) — Rhododendrites | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Century 21 | [Century 21 NYC.JPG](https://commons.wikimedia.org/wiki/File:Century_21_NYC.JPG) — Mike Strand | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
+| Apollo Bagels | [Apollo Bagels (53716360259).jpg](https://commons.wikimedia.org/wiki/File:Apollo_Bagels_(53716360259).jpg) — Eden, Janine and Jim | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| Aimé Leon Dore | [Aimé Leon Dore Store Entrance.jpg](https://commons.wikimedia.org/wiki/File:Aim%C3%A9_Leon_Dore_Store_Entrance.jpg) — Chive Cream Cheese | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Lombardi’s Pizza | [Lombardi’s Pizza.jpg](https://commons.wikimedia.org/wiki/File:Lombardi%E2%80%99s_Pizza.jpg) — Kidfly182 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Prada Broadway Epicenter | [575 Broadway.jpg](https://commons.wikimedia.org/wiki/File:575_Broadway.jpg) — Beyond My Ken | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| SoHo free shopping | [Greene Street in Soho, Manhattan, New York, US.jpg](https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg) — Clyde Charles Brown | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| LOS TACOS No.1 | [Los Tacos No. 1, Manhattan April 2025.jpg](https://commons.wikimedia.org/wiki/File:Los_Tacos_No._1,_Manhattan_April_2025.jpg) — Paul Lowry | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| DUMBO / Washington Street | [Manhattan Bridge and Empire State Building from Washington Street, Dumbo, Brooklyn, New York.jpg](https://commons.wikimedia.org/wiki/File:Manhattan_Bridge_and_Empire_State_Building_from_Washington_Street,_Dumbo,_Brooklyn,_New_York.jpg) — Christian David | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| Peter Luger Steak House | [Peter Luger Steakhouse.jpg](https://commons.wikimedia.org/wiki/File:Peter_Luger_Steakhouse.jpg) — Kidfly182 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+
+## Cover photo
+
+[Manhattan Skyline at sunset - New York](https://commons.wikimedia.org/wiki/File:Manhattan_Skyline_at_sunset_-_New_York.jpg) by Giuseppe Milo, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). A Wikimedia Commons thumbnail is stored as `photos/nyc-skyline-cover.jpg`; the site crops its display to fit the cover area.

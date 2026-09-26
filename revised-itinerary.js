@@ -85,6 +85,7 @@ R('Century 21','센추리 21','15:30–17:15',40.7112,-74.01,'Leave ample time f
 '오후 3:40~4:40쯤 머서, 그린, 우스터, 브로드웨이를 자유롭게 쇼핑.'
 ],stops:[
 R('Black Seed Bagels','블랙 시드 베이글','09:45–10:25',40.7207,-73.9948,'Breakfast.','아침 식사.'),
+R('Apollo Bagels','아폴로 베이글','Optional · after Black Seed',40.7289,-73.9848,'Optional East Village bagel stop; allow extra travel time and adjust the following stops.','이스트 빌리지 베이글 선택 코스입니다. 이동 시간을 더 잡고 이후 일정을 조정하세요.','242 E 10th St, New York, NY 10003'),
 R('Supreme','슈프림','10:45–11:20',40.7232,-73.9957),
 R('Aimé Leon Dore','에메 레온 도르','11:30–12:15',40.7235,-73.9942,'11:30 AM reservation.','오전 11:30 예약.'),
 R('Buck Mason Nolita','벅 메이슨 놀리타','12:20–12:50',40.7228,-73.9944,'The location near Aimé Leon Dore.','에메 레온 도르 근처 지점.','235 Elizabeth St, New York, NY'),
@@ -109,8 +110,6 @@ R('LOS TACOS No.1','로스 타코스 넘버원','19:00–19:30',40.7257,-73.9996
 ],stops:[
 R('Hotel checkout / luggage storage','호텔 체크아웃 / 짐 보관','08:30',40.7457,-73.9933,'Leave luggage with the bell desk.','벨 데스크에 짐 맡기기.','152 W 26th St, New York, NY 10001'),
 R('DUMBO / Washington Street','덤보 / 워싱턴 스트리트','09:40–10:05',40.7033,-73.9906,'Couple photos with the Manhattan Bridge in the background.','맨해튼 브리지를 배경으로 커플 사진.'),
-R('Brooklyn Bridge Park','브루클린 브리지 파크','10:05–10:30',40.7003,-73.9967,'Waterfront and skyline photos.','워터프런트와 스카이라인 사진.'),
-R('Pebble Beach / waterfront','페블 비치 / 워터프런트','10:30–10:50',40.7043,-73.9907,'More photos; keep shopping brief.','사진 위주로, 쇼핑은 짧게.'),
 R('Peter Luger Steak House','피터 루거 스테이크 하우스','11:45–13:15',40.7099,-73.9624,'Final main meal; 11:45 AM reservation.','여행 마지막 메인 식사. 오전 11:45 예약.'),
 R('Hotel / collect luggage','호텔 / 짐 찾기','14:00–14:30',40.7457,-73.9933,'Restroom and final packing.','화장실 및 마지막 짐 정리.','152 W 26th St, New York, NY 10001'),
 R('Leave for the airport','공항으로 출발','14:30–15:00',40.7457,-73.9933,'JFK/EWR: leave at 2:30 PM. LGA: around 3 PM. Flight at 7 PM.','JFK/EWR은 오후 2:30, LGA는 오후 3시 전후 출발. 비행기는 오후 7시.','152 W 26th St, New York, NY 10001')
