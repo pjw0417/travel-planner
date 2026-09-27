@@ -228,6 +228,9 @@ const SHARED_PHOTOS={
   "Blue Bottle Coffee at Hudson Yards": {"src": "photos/places/38-blue-bottle-hudson-yards.jpg", "placeholder": true},
   "Ralph’s Coffee, Madison Avenue": {"src": "photos/places/39-ralphs-coffee-madison.jpg", "placeholder": true},
   "Madison Avenue stroll": {"src": "photos/places/40-madison-avenue-stroll.jpg", "placeholder": true},
+  "A Pasta Bar": {"src":"photos/places/47-a-pasta-bar.jpg","placeholder":true},
+  "Lysée": {"src":"photos/places/48-lysee.jpg","placeholder":true},
+  "Dover Street Market New York": {"src":"photos/places/49-dover-street-market-nyc.jpg","source":"https://commons.wikimedia.org/wiki/File:160_Lexington_Avenue.jpg","artist":"Beyond My Ken","license":"CC BY-SA 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","context":"building"},
   "Apollo Bagels": {
     "src": "photos/places/35-apollo-bagels.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Apollo_Bagels_(53716360259).jpg",

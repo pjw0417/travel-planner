@@ -73,7 +73,9 @@ R('Wall Street','월스트리트','12:10–12:30',40.7064,-74.0094,'NYSE, Federa
 R('Printemps New York','쁘렝땅 뉴욕','12:35–13:30',40.707,-74.0112,'Explore the store and One Wall Street.','매장과 원 월스트리트 건물 구경.','1 Wall St, New York, NY'),
 R('9/11 Memorial','9/11 메모리얼','14:25–15:00',40.7115,-74.0134),
 R('Oculus','오큘러스','15:00–15:25',40.7116,-74.0114,'Architecture and photos.','건축물 구경 및 사진.'),
-R('Century 21','센추리 21','15:30–17:15',40.7112,-74.01,'Leave ample time for shopping, then return to the hotel.','쇼핑 시간을 넉넉하게 확보하고 호텔 복귀.')
+R('Century 21','센추리 21','15:30–17:15',40.7112,-74.01,'Leave ample time for shopping, then return to the hotel.','쇼핑 시간을 넉넉하게 확보하고 호텔 복귀.'),
+R('Dover Street Market New York','도버 스트리트 마켓 뉴욕','Optional · before 18:00',40.7441,-73.9817,'Fashion and design stop on the way back; Sunday closing is listed at 6 PM, so leave Century 21 earlier if visiting.','호텔로 돌아가는 길의 패션·디자인 선택 코스. 일요일은 오후 6시 폐점으로 안내되어 있어 방문하려면 센추리 21에서 일찍 출발하세요.','160 Lexington Ave, New York, NY 10016'),
+R('Lysée','리제','Optional · before 19:00',40.73925,-73.98813,'French-Korean pastry stop near the hotel; Sunday closing is listed at 7 PM.','숙소 근처의 프랑스·한국식 디저트 선택 코스. 일요일은 오후 7시 폐점으로 안내되어 있습니다.','44 E 21st St, New York, NY 10010')
 ]},
 {title:'Nolita & SoHo',titleKo:'놀리타와 소호',note:'An unhurried shopping day with bagels, pizza, Raku, and tacos.',noteKo:'베이글, 피자, 라쿠, 타코를 곁들인 여유로운 쇼핑의 날.',tips:[
 'Aimé Leon Dore reservation: 11:30 AM. Raku reservation target: 5 PM.',
@@ -93,6 +95,7 @@ R('Lombardi’s Pizza','롬바르디스 피자','13:00–14:00',40.7215,-73.9957
 R('Stüssy','스투시','14:10–14:40',40.7247,-73.9995),
 R('Prada Broadway Epicenter','프라다 브로드웨이 에피센터','14:45–15:40',40.7243,-73.9972,'Explore the architecture and lower-level interior.','건축과 지하까지 이어지는 매장 내부 구경.','575 Broadway, New York, NY'),
 R('SoHo free shopping','소호 자유 쇼핑','15:40–16:40',40.724,-74.001,'Mercer, Greene, Wooster, and Broadway.','머서, 그린, 우스터, 브로드웨이 주변.'),
+R('A Pasta Bar','어 파스타 바','Optional · dinner alternative',40.72234,-74.00405,'SoHo pasta dinner option instead of RAKU; reservations recommended.','라쿠 대신 선택할 수 있는 소호 파스타 저녁 식사. 예약 권장.','330 W Broadway, New York, NY 10013'),
 R('RAKU SOHO','라쿠 소호','17:00–18:00',40.727,-74.0004,'Dinner; reservation target around 5 PM.','저녁 식사. 오후 5시 전후 예약.','48 MacDougal St, New York, NY'),
 R('KITH Manhattan','키스 맨해튼','18:15–19:00',40.7248,-73.9987),
 R('LOS TACOS No.1','로스 타코스 넘버원','19:00–19:30',40.7257,-73.9996,'Snack near Kith; return to the hotel afterward.','키스 근처 간식. 이후 호텔 복귀.')
