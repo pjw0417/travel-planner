@@ -37,3 +37,9 @@ The itinerary includes locally stored Wikimedia Commons photos for its stops oth
 Each built-in itinerary stop includes a one-sentence reason to visit in English and Korean. Open a stop's edit button to customize that sentence; new stops can have their own description in either language.
 
 Apollo Bagels is an optional East Village stop after Black Seed Bagels. Its photo is stored locally with source and license credit in `PHOTO_CREDITS.md`. Existing saved trips containing Black Seed Bagels receive Apollo once without replacing other edits.
+
+### Nearby public restrooms
+
+Each stop has a **Nearby restrooms** button showing the three closest operational listings in the [NYC Open Data Public Restrooms dataset](https://data.cityofnewyork.us/City-Government/Public-Restrooms/i7jb-7jku). The self-hosted snapshot in `public-restrooms.js` was retrieved September 26, 2026. Distances are straight-line estimates; directions open Google Maps. Hours and availability can change, so verify before going. A link to the separate Got2GoNYC community map is included for additional options.
+
+Shake Shack, Magnolia Bakery, Blue Bottle, Ralph’s Coffee, Madison Avenue, Black Seed Bagels, Supreme, Buck Mason, Stüssy, RAKU, and KITH each have a separate named placeholder image in `photos/places/`. To replace one, open that stop’s editor and upload a photo or paste an image URL. The replacement is saved with the trip and takes priority over its placeholder.

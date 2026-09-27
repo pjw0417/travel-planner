@@ -223,46 +223,11 @@ const SHARED_PHOTOS={
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
   },
-  "Shake Shack at Grand Central": {
-    "src": "photos/places/02-grand-central-terminal.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02.jpg",
-    "artist": "Axel Tschentscher",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "station"
-  },
-  "Magnolia Bakery at Grand Central": {
-    "src": "photos/places/02-grand-central-terminal.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02.jpg",
-    "artist": "Axel Tschentscher",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "station"
-  },
-  "Blue Bottle Coffee at Hudson Yards": {
-    "src": "photos/places/05-hudson-yards-vessel.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Vessel_in_Hudson_Yards,_2021-10-02.jpg",
-    "artist": "Jdforrester",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "context": "area"
-  },
-  "Ralph’s Coffee, Madison Avenue": {
-    "src": "photos/places/13-ralph-lauren-womens-home.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Lauren_888_Mad_Av_72_St_sunny_jeh.jpg",
-    "artist": "Jim.henderson",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "context": "building"
-  },
-  "Madison Avenue stroll": {
-    "src": "photos/places/13-ralph-lauren-womens-home.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Lauren_888_Mad_Av_72_St_sunny_jeh.jpg",
-    "artist": "Jim.henderson",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "context": "area"
-  },
+  "Shake Shack at Grand Central": {"src": "photos/places/36-shake-shack-grand-central.jpg", "placeholder": true},
+  "Magnolia Bakery at Grand Central": {"src": "photos/places/37-magnolia-bakery-grand-central.jpg", "placeholder": true},
+  "Blue Bottle Coffee at Hudson Yards": {"src": "photos/places/38-blue-bottle-hudson-yards.jpg", "placeholder": true},
+  "Ralph’s Coffee, Madison Avenue": {"src": "photos/places/39-ralphs-coffee-madison.jpg", "placeholder": true},
+  "Madison Avenue stroll": {"src": "photos/places/40-madison-avenue-stroll.jpg", "placeholder": true},
   "Apollo Bagels": {
     "src": "photos/places/35-apollo-bagels.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Apollo_Bagels_(53716360259).jpg",
@@ -270,52 +235,10 @@ const SHARED_PHOTOS={
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
   },
-  "Black Seed Bagels": {
-    "src": "photos/places/29-soho-free-shopping.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg",
-    "artist": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "area"
-  },
-  "Supreme": {
-    "src": "photos/places/29-soho-free-shopping.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg",
-    "artist": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "area"
-  },
-  "Buck Mason Nolita": {
-    "src": "photos/places/29-soho-free-shopping.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg",
-    "artist": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "area"
-  },
-  "Stüssy": {
-    "src": "photos/places/29-soho-free-shopping.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg",
-    "artist": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "area"
-  },
-  "RAKU SOHO": {
-    "src": "photos/places/29-soho-free-shopping.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg",
-    "artist": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "area"
-  },
-  "KITH Manhattan": {
-    "src": "photos/places/29-soho-free-shopping.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Greene_Street_in_Soho,_Manhattan,_New_York,_US.jpg",
-    "artist": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "context": "area"
-  }
+  "Black Seed Bagels": {"src": "photos/places/41-black-seed-bagels.jpg", "placeholder": true},
+  "Supreme": {"src": "photos/places/42-supreme.jpg", "placeholder": true},
+  "Buck Mason Nolita": {"src": "photos/places/43-buck-mason-nolita.jpg", "placeholder": true},
+  "Stüssy": {"src": "photos/places/44-stussy.jpg", "placeholder": true},
+  "RAKU SOHO": {"src": "photos/places/45-raku-soho.jpg", "placeholder": true},
+  "KITH Manhattan": {"src": "photos/places/46-kith-manhattan.jpg", "placeholder": true}
 };
